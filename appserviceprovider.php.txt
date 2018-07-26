@@ -1,0 +1,14 @@
+use Illuminate\Support\Facades\Schema;
+
+public function boot()
+{
+    Schema::defaultStringLength(191);
+}
+
+Inside config/database.php, replace this line for mysql
+
+'engine' => null',
+
+  with
+
+'engine' => 'InnoDB ROW_FORMAT=DYNAMIC',

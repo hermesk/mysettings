@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "window.zoomLevel": 1,
+
+    "php.validate.executablePath": "C:\\wamp\\bin\\php\\php7.2.4\\php.exe",
+    "php.executablePath": "C:\\wamp\\bin\\php\\php7.2.4\\php.exe"
+    }
